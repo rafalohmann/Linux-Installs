@@ -1,18 +1,16 @@
 sh setup-git.sh
 sh install-gitkraken.sh
 
+sh install-nodejs.sh
+sh install-angular-cli.sh
+
+sh install-sublime-text.sh
 
 sh install-chrome.sh
 sh install-spotify.sh
-
-sh install-visual-studio-code.sh
-sh install-sublime-text.sh
+sh install-steam.sh
 
 sh install-gimp.sh
-
-sh install-boot-repair.sh
-sh hardcodefixer-v1.sh
-
 
 echo "Starting full maintenance"
 echo "Force install"
