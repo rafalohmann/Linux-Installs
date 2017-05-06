@@ -1,5 +1,5 @@
-sh setup-git.sh
-sh install-gitkraken.sh
+#sh setup-git.sh
+#sh install-gitkraken.sh
 
 sh install-nodejs.sh
 sh install-angular-cli.sh

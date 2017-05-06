@@ -5,8 +5,8 @@ sudo dpkg -i /tmp/gitkraken-amd64.deb
 
 rm /tmp/gitkraken-amd64.deb
 
-echo "fixing hardcoded icon"
-old="Icon=app"
-new="Icon=gitkraken"
-location="/usr/share/applications/gitkraken.desktop"
-sudo sed -i s/$old/$new/g $location
+#echo "fixing hardcoded icon"
+#old="Icon=app"
+#new="Icon=gitkraken"
+#location="/usr/share/applications/gitkraken.desktop"
+#sudo sed -i s/$old/$new/g $location
